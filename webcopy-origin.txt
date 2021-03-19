@@ -1,0 +1,172 @@
+Uri: https://www.cortex.red/
+File Name: H:\website copy\www.cortex.red\index.htm
+Content Type: text/html
+
+Uri: https://www.cortex.red/images/cortexdaire.png
+File Name: H:\website copy\www.cortex.red\images\cortexdaire.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/css/cortexsite.css
+File Name: H:\website copy\www.cortex.red\css\cortexsite.css
+Content Type: text/css
+
+Uri: https://www.cortex.red/premium
+File Name: H:\website copy\www.cortex.red\premium.html
+Content Type: text/html
+
+Uri: https://www.cortex.red/guard
+File Name: H:\website copy\www.cortex.red\guard.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=602585371489861634&permissions=8&scope=bot&response_type=code&redirect_uri=https:%2F%2Fwww.cortex.red%2Fwelcome
+File Name: H:\website copy\www.cortex.red\oauth2\authorize.html
+Content Type: text/html
+
+Uri: https://www.cortex.fun/premium
+File Name: H:\website copy\www.cortex.red\premium-1.html
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/
+File Name: H:\website copy\www.cortex.red\index-1.htm
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-PKQFGQB
+File Name: H:\website copy\www.cortex.red\ns.html
+Content Type: text/html
+
+Uri: https://www.cortex.red/images/media-warp-desktop.png
+File Name: H:\website copy\www.cortex.red\images\media-warp-desktop.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/images/media-warp-desktop-3.png
+File Name: H:\website copy\www.cortex.red\images\media-warp-desktop-3.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/images/media-warp-plus.png
+File Name: H:\website copy\www.cortex.red\images\media-warp-plus.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/images/media-warp-desktop-2.png
+File Name: H:\website copy\www.cortex.red\images\media-warp-desktop-2.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/js/cortexAnaSayfa.js
+File Name: H:\website copy\www.cortex.red\js\cortexAnaSayfa.js
+Content Type: application/javascript
+
+Uri: https://www.cortex.red/images/media-mockup-1.png
+File Name: H:\website copy\www.cortex.red\images\media-mockup-1.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/images/media-mockup-2.png
+File Name: H:\website copy\www.cortex.red\images\media-mockup-2.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/images/media-mockup-3.png
+File Name: H:\website copy\www.cortex.red\images\media-mockup-3.png
+Content Type: image/png
+
+Uri: https://www.cortex.fun/
+File Name: H:\website copy\www.cortex.red\index-2.htm
+Content Type: text/html
+
+Uri: https://www.cortex.red/css/premiumNew.css
+File Name: H:\website copy\www.cortex.red\css\premiumNew.css
+Content Type: text/css
+
+Uri: https://cdn.glitch.com/aac47564-4f71-4190-b491-5eff053d82c5%2FcortexLogo.png?v=1615473217099
+File Name: H:\website copy\www.cortex.red\aac47564-4f71-4190-b491-5eff053d82c5cortexLogo.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/js/premiumNew.js
+File Name: H:\website copy\www.cortex.red\js\premiumNew.js
+Content Type: application/javascript
+
+Uri: https://cdn.glitch.com/aac47564-4f71-4190-b491-5eff053d82c5%2Fdaire_cortexguard.png?v=1609363987370
+File Name: H:\website copy\www.cortex.red\aac47564-4f71-4190-b491-5eff053d82c5daire_cortexguard.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/css/guard.css
+File Name: H:\website copy\www.cortex.red\css\guard.css
+Content Type: text/css
+
+Uri: https://www.cortex.red/premium.html
+File Name: H:\website copy\www.cortex.red\premium-2.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=692034882309849160&permissions=8&scope=bot&response_type=code&redirect_uri=https:%2F%2Fwww.cortex.red%2Fwelcome
+File Name: H:\website copy\www.cortex.red\oauth2\authorize-7.html
+Content Type: text/html
+
+Uri: https://www.cortex.red/index.html
+File Name: H:\website copy\www.cortex.red\index.html
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/website-terms/
+File Name: H:\website copy\www.cortex.red\website-terms\index.htm
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/privacypolicy/
+File Name: H:\website copy\www.cortex.red\privacypolicy\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/pudochu/
+File Name: H:\website copy\www.cortex.red\pudochu\index.htm
+Content Type: text/html
+
+Uri: https://www.cortex.red/media/for-families.png
+File Name: H:\website copy\www.cortex.red\media\for-families.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/media/protect-home.png
+File Name: H:\website copy\www.cortex.red\media\protect-home.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/media/content-filter.png
+File Name: H:\website copy\www.cortex.red\media\content-filter.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/media/protect-family.png
+File Name: H:\website copy\www.cortex.red\media\protect-family.png
+Content Type: image/png
+
+Uri: https://www.cortex.red/js/aile.js
+File Name: H:\website copy\www.cortex.red\js\aile.js
+Content Type: application/javascript
+
+Uri: https://discord.com/oauth2/authorize?client_id=710830284941164544&redirect_uri=https:%2F%2Fpay.cortex.fun%2Fapi%2Fpay%2Fcortex%2Fdiscord%2F61284&response_type=code&scope=identify
+File Name: H:\website copy\www.cortex.red\oauth2\authorize-1.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=710830284941164544&redirect_uri=https:%2F%2Fpay.cortex.fun%2Fapi%2Fpay%2Fcortex%2Fdiscord%2F70752&response_type=code&scope=identify
+File Name: H:\website copy\www.cortex.red\oauth2\authorize-2.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=710830284941164544&redirect_uri=https:%2F%2Fpay.cortex.fun%2Fapi%2Fpay%2Fcortex%2Fdiscord%2F58849&response_type=code&scope=identify
+File Name: H:\website copy\www.cortex.red\oauth2\authorize-3.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=710830284941164544&redirect_uri=https:%2F%2Fpay.cortex.fun%2Fapi%2Fpay%2Fcortex%2Fdiscord%2F11645&response_type=code&scope=identify
+File Name: H:\website copy\www.cortex.red\oauth2\authorize-4.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=710830284941164544&redirect_uri=https:%2F%2Fpay.cortex.fun%2Fapi%2Fpay%2Fcortex%2Fdiscord%2F43202&response_type=code&scope=identify
+File Name: H:\website copy\www.cortex.red\oauth2\authorize-5.html
+Content Type: text/html
+
+Uri: https://discord.com/oauth2/authorize?client_id=710830284941164544&redirect_uri=https:%2F%2Fpay.cortex.fun%2Fapi%2Fpay%2Fcortex%2Fdiscord%2F65999&response_type=code&scope=identify
+File Name: H:\website copy\www.cortex.red\oauth2\authorize-6.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Play:wght@400;700&display=swap
+File Name: H:\website copy\www.cortex.red\css2.css
+Content Type: text/css
+
+Uri: https://discord.com/invite/B6YNnux
+File Name: H:\website copy\www.cortex.red\invite\B6YNnux.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/sFBWW
+File Name: H:\website copy\www.cortex.red\invite\sFBWW.html
+Content Type: text/html
+
